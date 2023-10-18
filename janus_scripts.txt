@@ -1,0 +1,9 @@
+gst-plugins-rs/net/webrtc/gstwebrtc-api
+$ npm start
+
+janus-gateway/html
+$ python -m http.server
+
+gstreamer
+$ ./gst-env.py
+$ gst-launch-1.0 videotestsrc ! webrtcsink
