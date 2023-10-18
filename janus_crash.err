@@ -1,0 +1,104 @@
+Websockets server started (port 8188)...
+JANUS WebSockets transport plugin initialized!
+WebSockets thread started
+Creating new session: 4179489614624207; 0x7fb824001620
+Creating new handle in session 4179489614624207: 2303738100989556; 0x7fb824001620 0x7fb824001cf0
+Creating new session: 7225664771667081; 0x7fb824002950
+Creating new handle in session 7225664771667081: 3259383947976581; 0x7fb824002950 0x7fb824002ae0
+[3259383947976581] Creating ICE agent (ICE Full mode, controlled)
+[3259383947976581] The DTLS handshake has been completed
+[janus.plugin.videoroom-0x7fb7d8002900] WebRTC media is now available
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 34)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 34)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 26)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 50)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 46)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 38)
+[ERR] [ice.c:janus_ice_outgoing_traffic_handle:4647] [3259383947976581] ... only sent -1 bytes? (was 42)
+^CStopping server, please wait...
+Ending sessions timeout watchdog...
+Sessions watchdog stopped
+Closing transport plugins:
+Stopping webserver(s)...
+JANUS REST (HTTP/HTTPS) transport plugin destroyed!
+Nanomsg thread ended
+JANUS Nanomsg transport plugin destroyed!
+WebSockets thread ended
+[WSS-0x7fb7d8001d10] Destroying WebSocket client
+Destroying session 4179489614624207; 0x7fb824001620
+Detaching handle from JANUS VideoRoom plugin; 0x7fb824001cf0 0x56245d429200 0x7fb824001cf0 0x7fb824001ed0
+[janus.plugin.videoroom-0x56245d429200] No WebRTC media anymore; 0x7fb824001cf0 0x7fb824001ed0
+
+(janus:70554): GLib-CRITICAL **: 18:01:13.003: g_hash_table_lookup: assertion 'hash_table != NULL' failed
+[ERR] [transports/janus_http.c:janus_http_send_message:1050] Can't notify event, no session object...
+JANUS WebSockets transport plugin destroyed!
+Ending requests thread...
+
+(janus:70554): GLib-CRITICAL **: 18:01:13.003: g_hash_table_lookup: assertion 'hash_table != NULL' failed
+[ERR] [transports/janus_http.c:janus_http_send_message:1050] Can't notify event, no session object...
+
+(janus:70554): GLib-CRITICAL **: 18:01:13.003: g_hash_table_lookup: assertion 'hash_table != NULL' failed
+[ERR] [transports/janus_http.c:janus_http_send_message:1050] Can't notify event, no session object...
+[2303738100989556] Handle and related resources freed; 0x7fb824001cf0 0x7fb824001620
+Leaving Janus requests handler thread
+Destroying sessions...
+Freeing crypto resources...
+De-initializing SCTP...
+Closing plugins:
+JANUS AudioBridge plugin destroyed!
+JANUS Record&Play plugin destroyed!
+[echotest.js]  Deinitialized
+Janus JavaScript plugin (Duktape) destroyed!
+JANUS TextRoom plugin destroyed!
+JANUS NoSIP plugin destroyed!
+JANUS SIP plugin destroyed!
+JANUS VideoCall plugin destroyed!
+JANUS Streaming plugin destroyed!
+JANUS EchoTest plugin destroyed!
+JANUS VideoRoom plugin destroyed!
+Closing event handlers:
+Bye!
